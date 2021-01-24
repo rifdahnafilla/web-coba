@@ -1,0 +1,32 @@
+body{
+    background-image: -moz-linear-gradient(0 deg, #777777 0%, #777777,100%);
+    background-image: -webkit-linear-gradient(0 deg, #777777 0%, #777777,100%);
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    text-decoration: none;
+    transition: 0.85x;
+}
+.card img{
+    max-width: 170px;
+}
+
+.form-control{
+    font-size: 0.8rem;
+    padding: 1.5rem 1 rem;
+}
+
+.custom-checkbox label{
+    line-height: 1.5rem;
+}
+
+.btn{
+    font-size: 0.8rem;
+    padding: 0.75rem 1rem;
+}
